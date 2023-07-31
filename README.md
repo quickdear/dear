@@ -1,6 +1,7 @@
 # dear
 学习
 
+![image](https://github.com/quickdear/dear/blob/main/Dear_mnZ6cViuEY-output.gif)
 ![image](https://github.com/quickdear/dear/blob/main/1.png)
 ![image](https://github.com/quickdear/dear/blob/main/2.png)
 ![image](https://github.com/quickdear/dear/blob/main/3.png)
